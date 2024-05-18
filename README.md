@@ -1,1 +1,1 @@
-# rustdos-updater
+# rustdocs-updater
